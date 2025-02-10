@@ -1,0 +1,30 @@
+body {
+  background-color: #f5f5dc;
+}
+
+h1, h3, h4 {
+  color: brown;
+  text-align: center;
+  font: times new roman;
+}
+
+p {
+  font-family: times new roman;
+  font-size: 15px;
+  text-align: center;
+  color: brown;
+}
+	
+div {
+  text-align: center;
+  position: absolute;
+  top: 30%;
+  left: 32%;
+  border: 4px brown;
+  padding: 20px;
+  text-align: center;
+  width: 500px;
+
+
+}
+
